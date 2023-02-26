@@ -14,11 +14,14 @@
 ## 🚀 Technologies I know
 
 - HTML, CSS, Javascript,
+- ES6
+- React Js
 - Hyper Text Preprocessor Language (PHP) 
-- SQL, Session, Cookies.
+- SQL, Session, Cookies, Ajax
+- Rest Api
 - Bootsrap (CSS Framework)
 - Databases (Firebase, MYSQL)
-- Project Management (git, Github)
+- Project Management (Git, Github)
 - Design (Figma, Canva)
 - Deployment (Firebase, Surge, Netlify)
 
