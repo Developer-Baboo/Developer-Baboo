@@ -24,18 +24,12 @@
 - Project Management (Git, Github)
 - Design (Figma, Canva)
 - Deployment (Firebase, Surge, Netlify)
-
-
 <br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Baboo&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="developerbaboo" /></p>
 <br/>
 
 ## Connect with me:
 <p align="left">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Baboo&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="developerbaboo" /></p>
-
 <a href = "https://www.linkedin.com/in/baboo-heerani-%F0%9F%87%B5%F0%9F%87%B0-2a39a2188/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/baboo.meghwar"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
-
-
 </p>
