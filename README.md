@@ -6,7 +6,7 @@
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on *<img src="./react.png"/>* -->
 
-- 🎓 Graduated in BS- Software Engineering with Award Winning FYP
+- 🎓 Graduated in BS- Software Engineering with Award Winning FYP <a href="https://drive.google.com/drive/folders/1u3B-oc_hnY9HL5iHfHjinHT6C0uq0NSp?usp=share_link">View Award Here!</a>
 - 👨‍💻 Intern at HIST
 - 📫 How to reach me *babooheerani999@gmail.com*
 - ⚡ Fun fact *I love coding and I'm a quick learner.*
