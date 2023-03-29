@@ -33,3 +33,19 @@
 <a href = "https://www.linkedin.com/in/baboo-heerani-%F0%9F%87%B5%F0%9F%87%B0-2a39a2188/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/baboo.meghwar"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </p>
+
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Baboo&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Developer-Baboo&label=Profile%20Views&color=3&pretty=false" />
+</a>
