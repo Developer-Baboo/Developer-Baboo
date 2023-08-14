@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Baboo Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack PHP Developer and Fresh Graduated from the University of Sindh Jamshoro Pakistan</h3>
+<h3 align="center">I'm a passionate PHP Laravel Developer and Fresh Graduated from the University of Sindh Jamshoro Pakistan</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -7,17 +7,18 @@
 <!-- - 🔭 I’m currently working on *<img src="./react.png"/>* -->
 
 - 🎓 Graduated in BS- Software Engineering with Award Winning FYP <a href="https://drive.google.com/drive/folders/1u3B-oc_hnY9HL5iHfHjinHT6C0uq0NSp?usp=share_link">View Award Here!</a>
-- 👨‍💻 Intern at HIST
+- 👨‍💻 Ex Internee at HIST Jamshoro
 - 📫 How to reach me *babooheerani999@gmail.com*
 - ⚡ Fun fact *I love coding and I'm a quick learner.*
 
 ## 🚀 Technologies I know
 
-- HTML5, CSS3, Javascript(ES6+), Java, C++, Python (Numpy, Pandas, Seaborn, Matplotlib)
+- HTML5, CSS3, Javascript (ES6+), Java, C++, Python (Numpy, Pandas, Seaborn, Matplotlib)
+- Data Structure and Algorithms
 - React Js, Laravel, Bootstrap
 - Hyper Text Preprocessor Language (PHP) 
 - SQL
-- Rest Api
+- Rest API
 - Databases (Firebase, MYSQL)
 - Project Management (Git, Github)
 - Design (Figma, Canva)
