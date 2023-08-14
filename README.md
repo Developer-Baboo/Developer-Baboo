@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Baboo Kumar</h1>
-<h3 align="center">I'm a passionate Full Stack PHP Developer and Fresh Graduate from Pakistan</h3>
+<h3 align="center">I'm a passionate Full Stack PHP Developer and Fresh Graduated from the University of Sindh Jamshoro Pakistan</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -13,13 +13,11 @@
 
 ## 🚀 Technologies I know
 
-- HTML, CSS, Javascript,
-- ES6
-- React Js
+- HTML5, CSS3, Javascript(ES6+), Java, C++, Python (Numpy, Pandas, Seaborn, Matplotlib)
+- React Js, Laravel, Bootstrap
 - Hyper Text Preprocessor Language (PHP) 
-- SQL, Session, Cookies, Ajax
+- SQL
 - Rest Api
-- Bootsrap (CSS Framework)
 - Databases (Firebase, MYSQL)
 - Project Management (Git, Github)
 - Design (Figma, Canva)
@@ -30,7 +28,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/baboo-heerani-%F0%9F%87%B5%F0%9F%87%B0-2a39a2188/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/babookumar"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://web.facebook.com/baboo.meghwar"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </p>
 
