@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Baboo Kumar</h1>
-<h3 align="center">I'm a passionate PHP Laravel Developer and Fresh Graduated from the University of Sindh Jamshoro Pakistan</h3>
+<h3 align="center">I'm a Full Stack Developer and Fresh Graduated from the University of Sindh Jamshoro Pakistan</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -7,7 +7,7 @@
 <!-- - 🔭 I’m currently working on *<img src="./react.png"/>* -->
 
 - 🎓 Graduated in BS- Software Engineering with Award Winning FYP <a href="https://drive.google.com/drive/folders/1u3B-oc_hnY9HL5iHfHjinHT6C0uq0NSp?usp=share_link">View Award Here!</a>
-- 👨‍💻 Ex Internee at HIST Jamshoro
+- 👨‍💻 Trainee Developer @ <a href="https://genetechsolutions.com/">Genetech Solutions</a>
 - 📫 How to reach me *babooheerani999@gmail.com*
 - ⚡ Fun fact *I love coding and I'm a quick learner.*
 
@@ -15,7 +15,7 @@
 
 - HTML5, CSS3, Javascript (ES6+), Java, C++, Python (Numpy, Pandas, Seaborn, Matplotlib)
 - Data Structure and Algorithms
-- React Js, Laravel, Bootstrap
+- React Js, Laravel, vuejs, Bootstrap
 - Hyper Text Preprocessor Language (PHP) 
 - SQL
 - Rest API
