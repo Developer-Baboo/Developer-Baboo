@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Baboo Kumar</h1>
-<h3 align="center">I'm a Full Stack Developer and Fresh Graduated from the University of Sindh Jamshoro Pakistan</h3>
+<h3 align="center">I'm a Full Stack Web Developer</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -15,8 +15,8 @@
 
 - HTML5, CSS3, Javascript (ES6+), Java, C++, Python (Numpy, Pandas, Seaborn, Matplotlib)
 - Data Structure and Algorithms
-- React Js, Laravel, vuejs, Bootstrap
-- Hyper Text Preprocessor Language (PHP) 
+- React Js, Laravel 10, vuejs 3, Bootstrap5
+- Hyper Text Preprocessor Language (PHP 8) 
 - SQL
 - Rest API
 - Databases (Firebase, MYSQL)
