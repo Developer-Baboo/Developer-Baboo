@@ -1,15 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Baboo Kumar</h1>
-<h3 align="center">I'm a Full Stack Web Developer</h3>
+<h3 align="center">I'm a Passionate Full Stack Web Developer</h3>
 
 
 ## 🙋‍♂️ About Me
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on *<img src="./react.png"/>* -->
 
-- 🎓 Graduated in BS- Software Engineering with Award Winning FYP <a href="https://drive.google.com/drive/folders/1u3B-oc_hnY9HL5iHfHjinHT6C0uq0NSp?usp=share_link">View Award Here!</a>
+- 🎓 Graduated in BS- Software Engineering with Award Winning FYP and 3.2 CGPA <a href="https://drive.google.com/drive/folders/1u3B-oc_hnY9HL5iHfHjinHT6C0uq0NSp?usp=share_link">View Award Here!</a>
 - 👨‍💻 Trainee Developer @ <a href="https://genetechsolutions.com/">Genetech Solutions</a>
+- 🤠 Coded 1000+ hours
+- 👨‍💻 Ex-Intern @ <a href="https://www.histpk.org/">HIST Jamshoro Pakistan</a>
 - 📫 How to reach me *babooheerani999@gmail.com*
-- ⚡ Fun fact *I love coding and I'm a quick learner.*
+- ⭐ 30+ Repositories on GitHub
+- ⚡ Fun fact *I love coding, Logic Building and I'm a quick learner*
 
 ## 🚀 Technologies I know
 
