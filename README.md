@@ -44,6 +44,3 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Developer-Baboo&label=Profile%20Views&color=3&pretty=false" />
-</a>
